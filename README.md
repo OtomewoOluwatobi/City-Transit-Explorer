@@ -68,3 +68,18 @@ uvicorn main:app --reload
 
 # Frontend setup (Streamlit example)
 streamlit run app.py
+
+
+---
+
+## 🔍 Dataset Suggestions
+
+Here are 3 starting datasets you can use:
+1. **[TfL (Transport for London) Unified API](https://api.tfl.gov.uk/)** — Offers real-time and historical data.
+2. **[OpenMobilityData GTFS feeds](https://transitfeeds.com/)** — Has structured GTFS datasets for various cities.
+3. **[Data.gov.uk Transport section](https://data.gov.uk/dataset?topic=Transport)** — Great for CSV downloads.
+
+---
+
+Would you like help building the FastAPI backend, or a starter Streamlit dashboard script?
+
