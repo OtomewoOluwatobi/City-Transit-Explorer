@@ -13,7 +13,7 @@ City Transit Explorer is a data analytics project focused on uncovering patterns
 
 ## 🛠 Tech Stack
 
-- **Backend**: Python (FastAPI) / Node.js (Express), Pandas, SQL
+- **Backend**: Python (FastAPI) (Express), Pandas, SQL
 - **Data Analysis**: Pandas, NumPy, Matplotlib, Scikit-learn
 - **Dashboard**: Power BI / Streamlit
 - **Database**: SQLite / PostgreSQL
